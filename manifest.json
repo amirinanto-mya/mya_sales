@@ -1,11 +1,11 @@
 {
-    "name": "My-A Catalog",
-    "short_name": "My-A Catalog",
+    "name": "mya_sales",
+    "short_name": "mya_sales",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "My-A Catalog.",
+    "description": "My-A Sales",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
